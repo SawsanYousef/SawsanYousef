@@ -1,4 +1,4 @@
-# Hi, I'm Sawsan Yusuf! 👋
+# Hi, I'm Sawsan Yousef! 👋
 
 ### Empowering Decisions Through Data Science
 
