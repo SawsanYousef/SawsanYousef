@@ -40,7 +40,7 @@ Through intensive industry-led internships, international labs, and technical mi
 
 
 ### ⚙️ 3. Intelligent Enterprise Automation (RPA)
-* **[Enterprise Email & Web Automation Workflow](LINK_TO_REPO):** *RPA Capstone (Awarded 38.5/40).* Built an end-to-end Blue Prism automation integrating Outlook, Excel manipulation, secure Work Queues, and Chrome web scraping.
+* **[Enterprise Email & Web Automation Workflow](https://github.com/SawsanYousef/Enterprise-Email-Web-Automation-Workflow.git):** *RPA Capstone (Awarded 38.5/40).* Built an end-to-end Blue Prism automation integrating Outlook, Excel manipulation, secure Work Queues, and Chrome web scraping.
 
 ### 📊 4. Machine Learning & Predictive Analytics
 * **[Bankruptcy Risk Assessment](https://github.com/SawsanYousef/poland-bankruptcy-prediction.git):** Designed a robust classification model handling highly imbalanced data (SMOTE/Class Weights optimization) to forecast corporate financial risk.
