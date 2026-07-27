@@ -1,76 +1,67 @@
 # Hi, I'm Sawsan Yousef! 👋
+### Mechatronics Engineer | Deep Learning & Intelligent Automation Specialist
 
-### Empowering Decisions Through Data Science
+A results-driven Mechatronics Engineering graduate who bridges the gap between hardware logic, advanced artificial intelligence, and enterprise-level automation. I specialize in designing end-to-end intelligent systems, training deep learning topologies, and deploying automated workflows to optimize complex technical environments. 
 
----
-
-### 👩‍💻 About Me
-
-Curious how a passion for problem-solving turned into a thriving data science career?
-My journey began with a realization: **data has the power to transform industries and improve lives**.
-
-With a **Mechatronics Engineering degree from The Hashemite University**, I ventured into the world of **data science**, drawn by its potential to uncover insights and drive innovation. Today, I apply both creative thinking and technical rigor to real-world problems as a **Junior Data Scientist**.
+Through intensive industry-led internships, international labs, and technical milestones, I thrive on high learning agility and rigorous technical problem-solving.
 
 ---
 
-### 🚀 What I Do
+## 🛠️ My Technical Toolkit
 
-I specialize in:
-
-* **Machine Learning** & **Deep Learning**
-* **Customer Segmentation & Market Insights**
-* **Data Wrangling & Visualization**
-
----
-
-### 🎯 Certifications
-
-* 🏅 **IBM Data Science Professional Certificate**
-* 🧠 **Applied Data Science Lab – WorldQuant University**
+- **Programming & Scripting:** Python, Embedded C, Assembly Language, SQL.
+- **AI & Deep Learning Frameworks:** PyTorch, TensorFlow, Keras, Scikit-learn, OpenCV.
+- **Data Engineering & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Tableau, Power BI.
+- **Embedded Systems & Simulation:** Arduino Uno, PIC Microcontrollers, Proteus ISIS, MPLAB IDE.
+- **Intelligent Automation (RPA):** Blue Prism (Certified Developer AD01), Process & Object Design, Logic Optimization.
 
 ---
 
-### 🛠️ My Toolkit
+## 🎯 Certifications & Milestones
 
-**Languages:** `Python`, `SQL`
-**Libraries/Frameworks:** `PyTorch`, `TensorFlow/Keras`, `Scikit-learn`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`
-**Tools:** `Jupyter Notebooks`, `Google Colab`, `Tableau`, `GitHub`
-
----
-
-### ✨ Key Projects & Achievements
-
-Here are some highlights of my work, including significant contributions during my Data Scientist Internship and independent projects:
-
-#### 💼 Data Scientist Intern | SHAI for AI – Jordan | June 2023 – January 2024
-
-* **Diamond Price Prediction:** Built a regression model achieving **98.17% accuracy** to estimate diamond prices using key attributes.
-* **Music Genre Classification:** Created an ensemble model that accurately classified approximately **14,000 audio tracks with 94% accuracy**.
-* **Customer Clustering:** Applied K-means clustering on over **9,000 credit card records** to define distinct market segments for targeted marketing strategies.
-* **COVID-19 Detection (CNN):** Developed a deep learning model utilizing chest X-ray images, achieving **95% detection accuracy** for COVID-19.
-* **Sentiment Analysis (LSTM):** Constructed a deep learning NLP pipeline with **91% accuracy** for classifying movie review sentiment.
-
-#### 🌟 Independent & Advanced Projects
-
-* 🌿 **Cassava Disease Classification (Uganda):** Developed a PyTorch-based model (ResNet-18) achieving an impressive **98.59% accuracy** on unseen test data for 5 distinct cassava leaf conditions.
-* 🏡 **House Price Prediction (Argentina):** Built a machine learning model to forecast residential property values based on various features.
-* 🏦 **Bankruptcy Prediction (Poland):** Designed a classification model to assess bankruptcy risk for Polish firms.
-* 📊 **Proficient in Data Analysis & Visualization:** Expertly used **Python, SQL, and Tableau** to explore data, create insightful dashboards, and communicate findings effectively.
-* 🤝 **Led & Collaborated on Complex Projects:** Managed projects that analyzed high-dimensional datasets and provided actionable insights to support decision-making.
+- 🏅 **Blue Prism Certified Developer (AD01)** | *Enterprise RPA Credential (Scored 85%)*
+- 🧠 **Deep Learning Fundamentals Lab** | *WorldQuant University (In Progress)*
+- 🖼️ **Computer Vision Lab** | *WorldQuant University*
+- 📊 **Applied Data Science Lab** | *WorldQuant University*
+- 🚀 **IBM Data Science Professional Certificate** | *Coursera / IBM*
+- ⚙️ **Registered Mechatronics Engineer** | *Jordan Engineers Association (JEA)*
 
 ---
 
-### 🌱 Always Learning & Growing
+## ✨ Featured Engineering & AI Portfolio (8 Core Projects)
 
-I’m continuously expanding my expertise and passionate about making meaningful contributions to the field of data science. I thrive on challenging problems and collaborating with innovative teams.
+### 🤖 1. Embedded Systems & Robotics (Hardware Core)
+* **[Smart Egg Incubator System](LINK_TO_REPO):** *Graduation Project.* Designed and implemented an Arduino Uno-based embedded system for real-time control, sensor loops (DHT22), and automated incubation actuation.
+* **[Microprocessor PIC Interfacing](LINK_TO_REPO):** Developed low-level firmware in Assembly/Embedded C for register manipulation, address decoding, and peripheral interfacing simulated on Proteus.
+
+### 🧠 2. Computer Vision & Deep Learning (Advanced AI)
+* **[Object Detection YOLO Model](LINK_TO_REPO):** Implementing custom object detection and fine-tuning using the YOLO architecture for fast computer vision solutions.
+* **[Cassava Disease Classification (CNN)](LINK_TO_REPO):** Developed a PyTorch-based Deep Learning pipeline (ResNet-18) achieving a **98.59% accuracy** on unseen test data for plant disease segmentation.
+* **[COVID-19 Detection Pipeline (CNN)](LINK_TO_REPO):** Engineered a high-performance Convolutional Neural Network architecture for chest X-ray analysis, securing **95% detection accuracy**.
+
+### ⚙️ 3. Intelligent Enterprise Automation (RPA)
+* **[Enterprise Email & Web Automation Workflow](LINK_TO_REPO):** *RPA Capstone (Awarded 38.5/40).* Built an end-to-end Blue Prism automation integrating Outlook, Excel manipulation, secure Work Queues, and Chrome web scraping.
+
+### 📊 4. Machine Learning & Predictive Analytics
+* **[Bankruptcy Risk Assessment](LINK_TO_REPO):** Designed a robust classification model handling highly imbalanced data (SMOTE/Class Weights optimization) to forecast corporate financial risk.
+* **[House Prices Prediction (Regression)](LINK_TO_REPO):** Built a machine learning pipeline applying multi-attribute feature engineering and regression models to forecast residential property values.
 
 ---
 
-### 📫 Let’s Connect
+## 💼 Industry Internships & Experience
 
-I’m always eager to collaborate, learn, and grow in the data science field.
-Feel free to reach out:
+- 🤖 **RPA Developer Intern** | *Cyborg Automation Hub – Jordan (Aug 2025 – Nov 2025)*  
+  Designed scalable process flows and structured logic adhering to PDD/SDD technical standards.
+- 📊 **Data Science Intern** | *SHAI for AI – Jordan (June 2023 – Jan 2024)*  
+  Developed complex NLP (Sentiment Analysis at 91% accuracy), K-means customer clustering (9,000+ records), and ensemble learning architectures.
 
-📧 **[sawsanyusuf99@gmail.com](mailto:sawsanyusuf99@gmail.com)**
+---
 
-🔗 **[https://www.linkedin.com/in/sawsan-yusuf-027b2b214](https://www.linkedin.com/in/sawsan-yusuf)**
+## 🌱 Always Learning & Eager to Innovate
+I am deeply passionate about expanding my boundaries within advanced hardware, computer vision architectures, and the semiconductor domain. I thrive in challenging technical environments that demand analytical thinking and collaborative execution.
+
+## 📫 Let’s Connect
+
+- 📧 **Email:** sawsanyusuf99@gmail.com
+- 🔗 **LinkedIn:** [www.linkedin.com/in/sawsan-yousef](www.linkedin.com/in/sawsan-yousef)
+- 🐙 **GitHub:** [://github.com](https://://github.com)
