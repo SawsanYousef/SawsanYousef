@@ -35,8 +35,8 @@ Through intensive industry-led internships, international labs, and technical mi
 * **[Microprocessor PIC Interfacing](LINK_TO_REPO):** Developed low-level firmware in Assembly/Embedded C for register manipulation, address decoding, and peripheral interfacing simulated on Proteus.
 
 ### 🧠 2. Computer Vision & Deep Learning (Advanced AI)
-* **[Object Detection YOLO Model](LINK_TO_REPO):** Implementing custom object detection and fine-tuning using the YOLO architecture for fast computer vision solutions.
-* **[Cassava Disease Classification (CNN)](LINK_TO_REPO):** Developed a PyTorch-based Deep Learning pipeline (ResNet-18) achieving a **98.59% accuracy** on unseen test data for plant disease segmentation.
+* **[Object Detection YOLO Model](https://github.com/SawsanYousef/Object-Detection-YOLO-Model.git):** Implementing custom object detection and fine-tuning using the YOLO architecture for fast computer vision solutions.
+* **[Cassava Disease Classification (CNN)](https://github.com/SawsanYousef/uganda-cassava-disease-classifier.git):** Developed a PyTorch-based Deep Learning pipeline (ResNet-18) achieving a **98.59% accuracy** on unseen test data for plant disease segmentation.
 
 
 ### ⚙️ 3. Intelligent Enterprise Automation (RPA)
