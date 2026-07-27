@@ -31,8 +31,8 @@ Through intensive industry-led internships, international labs, and technical mi
 ## ✨ Featured Engineering & AI Portfolio (8 Core Projects)
 
 ### 🤖 1. Embedded Systems & Robotics (Hardware Core)
-* **[Smart Egg Incubator System](LINK_TO_REPO):** *Graduation Project.* Designed and implemented an Arduino Uno-based embedded system for real-time control, sensor loops (DHT22), and automated incubation actuation.
-* **[Microprocessor PIC Interfacing](LINK_TO_REPO):** Developed low-level firmware in Assembly/Embedded C for register manipulation, address decoding, and peripheral interfacing simulated on Proteus.
+* **[Smart Egg Incubator System](https://github.com/SawsanYousef/Smart-Egg-Incubator-System.git):** *Graduation Project.* Designed and implemented an Arduino Uno-based embedded system for real-time control, sensor loops (DHT22), and automated incubation actuation.
+* **[Microprocessor PIC Interfacing](https://github.com/SawsanYousef/Microprocessor-PIC-Interfacing.git):** Developed low-level firmware in Assembly/Embedded C for register manipulation, address decoding, and peripheral interfacing simulated on Proteus.
 
 ### 🧠 2. Computer Vision & Deep Learning (Advanced AI)
 * **[Object Detection YOLO Model](https://github.com/SawsanYousef/Object-Detection-YOLO-Model.git):** Implementing custom object detection and fine-tuning using the YOLO architecture for fast computer vision solutions.
