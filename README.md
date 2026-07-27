@@ -37,7 +37,7 @@ Through intensive industry-led internships, international labs, and technical mi
 ### 🧠 2. Computer Vision & Deep Learning (Advanced AI)
 * **[Object Detection YOLO Model](LINK_TO_REPO):** Implementing custom object detection and fine-tuning using the YOLO architecture for fast computer vision solutions.
 * **[Cassava Disease Classification (CNN)](LINK_TO_REPO):** Developed a PyTorch-based Deep Learning pipeline (ResNet-18) achieving a **98.59% accuracy** on unseen test data for plant disease segmentation.
-* **[COVID-19 Detection Pipeline (CNN)](LINK_TO_REPO):** Engineered a high-performance Convolutional Neural Network architecture for chest X-ray analysis, securing **95% detection accuracy**.
+
 
 ### ⚙️ 3. Intelligent Enterprise Automation (RPA)
 * **[Enterprise Email & Web Automation Workflow](LINK_TO_REPO):** *RPA Capstone (Awarded 38.5/40).* Built an end-to-end Blue Prism automation integrating Outlook, Excel manipulation, secure Work Queues, and Chrome web scraping.
@@ -61,6 +61,4 @@ Through intensive industry-led internships, international labs, and technical mi
 I am deeply passionate about expanding my boundaries within advanced hardware, computer vision architectures, and the semiconductor domain. I thrive in challenging technical environments that demand analytical thinking and collaborative execution.
 
 ## 📫 Let’s Connect
-
-- 📧 **Email:** [sawsanyusuf99@gmail.com](sawsanyusuf99@gmail.com)
 - 🔗 **LinkedIn:** [www.linkedin.com/in/sawsan-yousef](https://www.linkedin.com/in/sawsan-yousef/)
