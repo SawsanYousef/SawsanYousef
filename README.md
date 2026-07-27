@@ -63,4 +63,4 @@ I am deeply passionate about expanding my boundaries within advanced hardware, c
 ## 📫 Let’s Connect
 
 - 📧 **Email:** sawsanyusuf99@gmail.com
-- 🔗 **LinkedIn:** [www.linkedin.com/in/sawsan-yousef](www.linkedin.com/in/sawsan-yousef)
+- 🔗 **LinkedIn:** [www.linkedin.com/in/sawsan-yousef](https://www.linkedin.com/in/sawsan-yousef/)
