@@ -43,8 +43,8 @@ Through intensive industry-led internships, international labs, and technical mi
 * **[Enterprise Email & Web Automation Workflow](LINK_TO_REPO):** *RPA Capstone (Awarded 38.5/40).* Built an end-to-end Blue Prism automation integrating Outlook, Excel manipulation, secure Work Queues, and Chrome web scraping.
 
 ### 📊 4. Machine Learning & Predictive Analytics
-* **[Bankruptcy Risk Assessment](LINK_TO_REPO):** Designed a robust classification model handling highly imbalanced data (SMOTE/Class Weights optimization) to forecast corporate financial risk.
-* **[House Prices Prediction (Regression)](LINK_TO_REPO):** Built a machine learning pipeline applying multi-attribute feature engineering and regression models to forecast residential property values.
+* **[Bankruptcy Risk Assessment](https://github.com/SawsanYousef/poland-bankruptcy-prediction.git):** Designed a robust classification model handling highly imbalanced data (SMOTE/Class Weights optimization) to forecast corporate financial risk.
+* **[House Prices Prediction (Regression)](https://github.com/SawsanYousef/argentina-house-prices-prediction.git):** Built a machine learning pipeline applying multi-attribute feature engineering and regression models to forecast residential property values.
 
 ---
 
